@@ -6,4 +6,4 @@ The dataset is taken from kaggle : https://www.kaggle.com/benroshan/factors-affe
 **OBJECTIVE**
 
 
-Here initially Ihave to do the data cleaning and then do the visualizations onthe givendata. By doing visualization itself we can find some properties in the data.ThenI will try building some machine learning models on the given data.Then Iwill compare the accuracy scores Iobtained with different data.Fromthem,I will choose the model that gives the best accuracy score.
+Here initially I have to do the data cleaning and then do the visualizations onthe given data. By doing visualization itself we can find some properties in the data.Then I will try building some machine learning models on the given data.Then I will compare the accuracy scores I obtained with different data.From them,I will choose the model that gives the best accuracy score.
