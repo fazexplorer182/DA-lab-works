@@ -1,4 +1,4 @@
-Here we have a dataset thatcontains placementdata of students in a XYZ campus. It includes the educational informationof each student, information about whether the student got placed or not,and the salary offered to the student.
+Here we have a dataset that contains placement data of students in a XYZ campus. It includes the educational information of each student, information about whether the student got placed or not,and the salary offered to the student.
 
 The dataset is taken from kaggle : https://www.kaggle.com/benroshan/factors-affecting-campus-placement.
 
